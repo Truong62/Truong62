@@ -17,10 +17,7 @@
 ---
 
 ## 📫 <span style="color:#009688; font-weight:bold;">Contact</span>
-
-📧 **Email**: *\[update]*
-🔗 **Website**: *\[update]*
-🐙 **GitHub**: *\[github.com/Truong62]*
+🔗 **Website**: https://ngoctruongg.id.vn/
 
 ---
 
