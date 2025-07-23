@@ -12,6 +12,8 @@
 
 🎯 *"Crafting code with purpose, beauty, and a sprinkle of magic."*
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truong62&layout=compact&theme=" alt=Truong62 />
+
 ---
 
 ## 📫 <span style="color:#009688; font-weight:bold;">Contact</span>
