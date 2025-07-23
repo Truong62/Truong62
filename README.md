@@ -1,12 +1,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%"/>
 </div>
----
-
 # 🎨 **About Me**
-
----
-
 ## 🏷️ <span style="color:#ff9800; font-weight:bold;">Personal Information</span>
 
 🌟 **Name**: <span style="color:#4caf50; font-weight:bold;">Ngoc Truong</span>
