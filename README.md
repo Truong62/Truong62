@@ -29,6 +29,7 @@
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Truong62&show_icons=true&theme=radical" alt="Truong62 stats" />
+  
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truong62&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
