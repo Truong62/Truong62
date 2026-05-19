@@ -5,18 +5,14 @@
 <div align="center">
   
   <a href="https://github.com/Truong62">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ngoc+Truong+%F0%9F%91%8B;Developer+%7C+Designer+%7C+Dreamer;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ngoc+Truong+%F0%9F%91%8B;Developer+%7C+GCP+%7C+AWS;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Truong62&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Truong62?tab=followers">
-    <img src="https://img.shields.io/github/followers/Truong62?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-success?style=for-the-badge" alt="Focus" />
-
 </div>
-
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Truong62&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/Truong62?tab=followers"><img src="https://img.shields.io/github/followers/Truong62?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-success?style=for-the-badge" alt="Focus" />
+</div>
 
 <h2 align="center">🧩 About Me</h2>
 
@@ -45,7 +41,7 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,php" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,go" alt="Languages" />
 
 ### ⚙️ Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,vue,laravel" alt="Frameworks" />
@@ -56,31 +52,6 @@
 ### 🎨 Design
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" alt="Design" />
 
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<a href="https://github.com/Truong62">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Truong62&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truong62&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top languages" />
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Truong62&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-
-</div>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Truong62&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 </div>
 
 ---
