@@ -1,26 +1,25 @@
 name: Generate Snake Animation
 
 on:
-  # Chạy tự động mỗi 12 tiếng
   schedule:
     - cron: "0 */12 * * *"
-  # Cho phép chạy thủ công từ tab Actions
   workflow_dispatch:
-  # Tự động chạy mỗi khi push lên branch main
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
       - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
