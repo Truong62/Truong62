@@ -29,7 +29,7 @@
 
   </td>
     <td>
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="coding gif" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Truong62&theme=radical" />
     </td>
   </tr>
 </table>
