@@ -64,8 +64,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
 
----
-
 <h2 align="center">📫 Connect with Me</h2>
 
 <div align="center">
@@ -77,8 +75,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
----
 
 <div align="center">
   
