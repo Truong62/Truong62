@@ -1,83 +1,53 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%" alt="banner" />
-</div>
+<h1 align="center">Nguyen Ngoc Truong</h1>
 
-<div align="center">
-  
-  <a href="https://github.com/Truong62">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ngoc+Truong+%F0%9F%91%8B;Developer+%7C+GCP+%7C+AWS;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Truong62&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Truong62?tab=followers"><img src="https://img.shields.io/github/followers/Truong62?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-success?style=for-the-badge" alt="Focus" />
-</div>
+<p align="center">
+  AI Engineer · Full-stack Developer · Hanoi, Vietnam
+</p>
 
-<h2 align="center">🧩 About Me</h2>
+<p align="center">
+  <a href="https://ngoctruong.click/"><img src="https://img.shields.io/badge/Portfolio-ngoctruong.click-111?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ngoctruongdev/"><img src="https://img.shields.io/badge/LinkedIn-ngoctruongdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/badges/ca6ca1d4-e2f2-4a6e-8d0d-d324436460ad"><img src="https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer" /></a>
+</p>
 
-<table align="center">
-  <tr>
-    <td>
+---
 
-- 🚀 Passionate about building **clean, efficient, and scalable** applications  
-- 🌍 Based in **Vietnam** 🇻🇳  
-- 🎯 Always learning new technologies and improving my craft  
-- 🎨 I love combining **design + logic** to create magical experiences  
-- 💬 Ask me about **Web Dev, UI/UX, and Open Source**  
-- ⚡ Fun fact: *Coffee + Code = Happiness* ☕
+I build AI-powered Shopify apps used by 50K+ merchants at **Avada Commerce**. Right now I own an AI search visibility (AEO) product end-to-end: LLM agents, AI research pipelines and MCP apps that run inside ChatGPT and Claude, on serverless GCP and AWS.
 
-  </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Truong62&theme=radical" />
-    </td>
-  </tr>
-</table>
+### What I work on
 
-<h2 align="center">🛠️ Tech Stack</h2>
+- **AI visibility platform** tracking how brands show up in ChatGPT, Gemini and Google AI Overviews: API, web app, MCP server and workers
+- **LLM agents** with LangGraph, OpenAI, Claude and Gemini: structured outputs, tool calling, SSE streaming, prompt-injection hardening
+- **MCP apps** with OAuth 2.1 so ChatGPT, Claude and Cursor can read reports and publish content
+- **Serverless backends** on GCP (Cloud Functions, Cloud Run, Pub/Sub) and AWS (Lambda, SQS, Aurora Serverless)
+- **Coding agents** on Claude Code and the Claude Agent SDK that fix bugs test-first and open merge requests
 
-<div align="center">
+### Highlights
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,go" alt="Languages" />
+- Cut a full AI visibility scan from **10.5 hours to ~6 minutes** by querying AI engines in parallel
+- Cut infrastructure cost by **~35%** by moving millions of article versions to compressed storage with zero downtime
+- Built a **Go proxy** behind Caddy that takes most storefront traffic off the Node.js service
+- Built an **autonomous Slack-to-GitLab bug-fix agent** whose fixes are regularly merged by the team
 
-### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,vue,laravel" alt="Frameworks" />
+### Side projects
 
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,docker,git,github" alt="Tools" />
+| Project | What it is |
+| --- | --- |
+| [**MacKit**](https://github.com/Truong62/clean-macos) | Native macOS app in Swift: disk cleanup, clean uninstalls, screen recording, clipboard history, port and job viewer. [Website](https://truong62.github.io/clean-macos/) |
+| [**AWS DVA-C02 guide**](https://github.com/Truong62/aws-dva-c02) | 50-lesson Vietnamese study guide for the AWS Certified Developer – Associate exam. [Read online](https://aws-dva-c02-three.vercel.app) |
 
-### 🎨 Design
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" alt="Design" />
+### Stack
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,nodejs,nestjs,bun,graphql,react,nextjs,tailwind&perline=10" alt="Languages and frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,redis,firebase,elasticsearch,gcp,aws,docker,githubactions&perline=10" alt="Data and cloud" />
+</p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+**AI:** LangGraph · LangChain · RAG · MCP · OpenAI · Claude · Gemini · Claude Code · Codex
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Truong62/Truong62/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+### Certifications
 
-<h2 align="center">💡 Quote of the Day</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</div>
-
-<h2 align="center">📫 Connect with Me</h2>
-
-<div align="center">
-
-  <a href="https://ngoctruong.click/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/ngoctruongdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=24&fontColor=fff&animation=twinkling" alt="footer" />
-
-</div>
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/ca6ca1d4-e2f2-4a6e-8d0d-d324436460ad) · 2026
+- [NVIDIA – Building RAG Agents with LLMs](https://learn.nvidia.com/certificates?id=qibiyNBuRjiVZggwReRLDQ) · 2025
+- [Apollo GraphQL – Graph Developer Associate](https://www.apollographql.com/tutorials/certifications/56db6e4d-0650-447e-9aaa-a7fe566de056) · 2025
